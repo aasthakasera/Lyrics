@@ -7,11 +7,11 @@ The build system relies on Gradle and Android Studio is therefore recommended.
 
 ## Main Page
 
-![Screenshot_2019-04-27-16-41-37-586_com example mymusicapp](https://user-images.githubusercontent.com/45789780/56849080-ba252a80-690d-11e9-9b7b-70c8cf883868.png)
+![Screenshot_2019-04-27-17-57-51-258_com example mymusicapp](https://user-images.githubusercontent.com/45789780/56849769-87336480-6916-11e9-8c4f-e6265e2422a8.png)
 
 ## Lyrics Page
 
-![Screenshot_2019-04-27-16-41-48-734_com example mymusicapp](https://user-images.githubusercontent.com/45789780/56849039-0de34400-690d-11e9-8087-9289cc111456.png)
+![Screenshot_2019-04-27-17-58-03-652_com example mymusicapp](https://user-images.githubusercontent.com/45789780/56849773-9b776180-6916-11e9-88f2-6403262967e2.png)
 
 ### User input
 
@@ -24,6 +24,12 @@ The build system relies on Gradle and Android Studio is therefore recommended.
 ### Lyrics Fetching
 
 ![Screenshot_2019-04-27-16-43-03-034_com example mymusicapp](https://user-images.githubusercontent.com/45789780/56849235-a24ea600-690f-11e9-8b23-48b9aa1d9886.png)     ![Screenshot_2019-04-27-16-57-53-635_com example mymusicapp (1)](https://user-images.githubusercontent.com/45789780/56849250-d4600800-690f-11e9-88ab-04eb3d2a6e0d.png)
+
+### Bookmark Page
+(hard coded)
+
+![Screenshot_2019-04-27-17-58-09-098_com example mymusicapp](https://user-images.githubusercontent.com/45789780/56849762-6539e200-6916-11e9-8b27-7347e79f4353.png)
+
 
 ## Features
 * **Lyrics** - Shows the lyrics of the song you are listening to at the moment. The Search button allows your to update the lyrics when the next song has started playing.
